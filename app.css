@@ -1,0 +1,74 @@
+.jumbo{
+ 	background-image: url("background.jpg");
+    background-size:cover;
+	background-position: center;
+    padding-bottom: 450px;
+    border-bottom:0;
+}
+
+body{
+    color:white;
+    background:#232323;
+}
+
+.projects{
+    
+    padding-top: 2em;
+}
+
+.proj{
+    padding-top:1em;
+    
+}
+
+#name{
+	text-align:center;
+    font-weight:400;
+    font-family:Lato;
+	padding-top:25%;
+    color: white;
+	text-shadow:0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.1);
+}
+
+#hr1{
+	width:400px;
+	border-top:1px solid #f8f8f8;
+	border-bottom:1px solid rgba(0,0,0,0.2);
+}
+.inv{
+
+	visibility:hidden;
+}
+
+p{
+    color:white;
+    
+}
+
+#butn{
+	border:none;
+	background:none;
+	color:black;
+
+}
+
+.resume:hover{
+	background-color:#fcf714;
+	transition: background 0.6s;
+	-webkit-transition:background 0.6s;
+	-moz-transition:background 0.6s;
+}
+
+.about{
+    background:#232323;
+    color:white;
+}
+
+.resume{
+    
+    margin-top: 3em;
+    padding: 1em;
+    background-color:#f8ff54;
+}
