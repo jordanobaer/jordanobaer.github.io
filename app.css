@@ -11,6 +11,14 @@ body{
     background:#232323;
 }
 
+.myimg{
+    height: 600px;
+}
+
+.usfimg{
+        height: 200px;
+}
+
 .projects{
     
     padding-top: 2em;
@@ -37,11 +45,19 @@ h1{
 				0px 18px 23px rgba(0,0,0,0.1);
 }
 
+
+
 #hr1{
 	width:400px;
 	border-top:1px solid #f8f8f8;
 	border-bottom:1px solid rgba(0,0,0,0.2);
 }
+#hr2{
+	width:200px;
+	border-top:1px solid #f8f8f8;
+	border-bottom:1px solid rgba(0,0,0,0.2);
+}
+
 .inv{
 
 	visibility:hidden;
